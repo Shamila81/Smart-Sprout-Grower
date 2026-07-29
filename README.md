@@ -1,4 +1,4 @@
-# 🌱 Smart Sprout Grower
+# 🌱 Smart Sprout Grower - IoT Project
 
 **An IoT-Based Automated Sprouting System Using Raspberry Pi Pico W, FreeRTOS, MQTT & Home Assistant**
 
