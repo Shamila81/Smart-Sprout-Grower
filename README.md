@@ -6,7 +6,7 @@ The **Smart Sprout Grower** is an embedded IoT system designed to automate the s
 
 ---
 
-## 👥 Team
+## Team
 
 This project was developed at **Metropolia University of Applied Sciences**.
 
@@ -17,24 +17,24 @@ This project was developed at **Metropolia University of Applied Sciences**.
 
 ---
 
-# ✨ Features
+#  Features
 
-- 🌡️ Real-time temperature and humidity monitoring (BME680)
-- 💧 Water level monitoring using ultrasonic sensor
-- 🚿 Automated daily **Rinse → Vent → Idle** cycle
-- 🔄 Stepper motor controlled ventilation lid
-- 💦 Automatic water pump control
-- 📺 OLED display for local system status
-- 💾 EEPROM storage for:
+-  Real-time temperature and humidity monitoring (BME680)
+-  Water level monitoring using ultrasonic sensor
+-  Automated daily **Rinse → Vent → Idle** cycle
+-  Stepper motor controlled ventilation lid
+-  Automatic water pump control
+-  OLED display for local system status
+-  EEPROM storage for:
   - Wi-Fi credentials
   - Sprouting day count
   - Lid position
-- 📡 MQTT communication with Home Assistant
-- 🛑 Safety features including low-water protection and emergency stop
+-  MQTT communication with Home Assistant
+-  Safety features including low-water protection and emergency stop
 
 ---
 
-# 🏗️ System Architecture
+#  System Architecture
 
 ### FreeRTOS Tasks
 
@@ -56,20 +56,20 @@ This project was developed at **Metropolia University of Applied Sciences**.
 
 ---
 
-# 🖥️ Home Assistant Dashboard
+#  Home Assistant Dashboard
 
 The system integrates with **Home Assistant** using MQTT.
 
 The dashboard displays:
 
-- 🌡️ Temperature
-- 💧 Humidity
-- 📅 Sprouting Day Count
-- ✅ Sprout Readiness Status
+-  Temperature
+-  Humidity
+-  Sprouting Day Count
+-  Sprout Readiness Status
 
 ---
 
-# 📡 MQTT Topics
+#  MQTT Topics
 
 | Topic | Description |
 |--------|-------------|
@@ -77,7 +77,7 @@ The dashboard displays:
 
 ---
 
-# 🔧 Hardware
+#  Hardware
 
 - Raspberry Pi Pico W
 - BME680 Environmental Sensor
@@ -90,7 +90,7 @@ The dashboard displays:
 
 ---
 
-# 💻 Software & Technologies
+#  Software & Technologies
 
 - C
 - FreeRTOS
@@ -102,7 +102,7 @@ The dashboard displays:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 Smart-Sprout-Grower
@@ -121,7 +121,7 @@ Smart-Sprout-Grower
 
 ---
 
-# 📖 Documentation
+#  Documentation
 
 The complete project report is available in:
 
@@ -131,7 +131,7 @@ docs/Smart_Sprout_Grower_Report.pdf
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 - Mobile application
 - Cloud data storage
@@ -141,7 +141,7 @@ docs/Smart_Sprout_Grower_Report.pdf
 
 ---
 
-# 👩‍💻 My Contribution
+#  My Contribution
 
 My main contributions to this project included:
 
@@ -154,10 +154,9 @@ My main contributions to this project included:
 
 ---
 
-# 📜 License
+#  License
 
 This project was developed for educational purposes at **Metropolia University of Applied Sciences**.
 
 ---
 
-## ⭐ If you find this project interesting, please consider giving it a star!
